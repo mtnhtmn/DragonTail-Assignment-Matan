@@ -1,0 +1,16 @@
+@import '../../styles/variables.scss';
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  margin-bottom: 1em;
+}
+
+.customButton {
+  margin-top: 1em;
+}

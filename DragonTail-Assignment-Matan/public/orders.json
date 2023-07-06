@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "details": {
+        "size": "Large",
+        "toppings": "Pepperoni, Mushrooms, Olives",
+        "delivery": "Home Delivery"
+      }
+    },
+    {
+      "id": "2",
+      "details": {
+        "size": "Medium",
+        "toppings": "Pineapple, Ham",
+        "delivery": "Pick-up"
+      }
+    },
+    {
+      "id": "3",
+      "details": {
+        "size": "Small",
+        "toppings": "Green Peppers, Onions, Sausage",
+        "delivery": "Home Delivery"
+      }
+    }
+  ]
+}
