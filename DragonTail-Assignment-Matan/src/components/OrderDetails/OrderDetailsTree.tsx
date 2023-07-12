@@ -16,7 +16,6 @@ const OrderDetailsTree: React.FC = () => {
     );
 
     const handleNextLevel = () => {
-        // Handle the next level logic here
         alert('Transfer successful');
     };
 
